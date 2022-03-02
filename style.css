@@ -1,0 +1,54 @@
+/* CSS files add styling rules to your content */
+
+.description{
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  align-items: center;
+}
+
+.about{
+  display: flex;
+  justify-content: center;
+}
+
+.contact{
+  display: flex;
+  justify-content: center;
+}
+
+.introduction{
+  display: flex;
+  justify-content: center;
+  padding: 100px;
+  background-color: green;
+}
+
+.portrait{
+  display: flex;
+  justify-content: center;
+  width: 35%;
+  background-color: blue;
+}
+
+.shortintro{
+  display: flex;
+  justify-content: center;
+  width: 65%;
+  background-color: red;
+}
+
+.hobbies{
+  display: flex;
+  justify-content: center;
+}
+
+.carouselcontainer{
+  display: flex;
+  justify-content: center;
+  padding: 100px
+}
